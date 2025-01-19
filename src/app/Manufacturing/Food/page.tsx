@@ -6,7 +6,7 @@ import Header from "@/app/components/HeroPages/Header";
 const Food = () => {
   return <div className="container">
        <Header 
-  title="Food Software" 
+  title="Food & Beverage Software" 
   description= "Boost your food manufacturing efficiency and stay compliant. Our software automates GST billing and filing, saving you time and money." 
   link="/Contact" 
   img1= "/HeropagesImages/img55.svg"

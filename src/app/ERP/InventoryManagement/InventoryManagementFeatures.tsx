@@ -12,38 +12,57 @@ const InventoryManagementFeatures = () => {
           <FeatureItem
             icon={InventoryManagementData[0].icon}
             title={InventoryManagementData[0].title}
+            description={InventoryManagementData[0].description}
+
+
           />
           <FeatureItem
             icon={InventoryManagementData[1].icon}
             title={InventoryManagementData[1].title}
+            description={InventoryManagementData[1].description}
+
           />
           <FeatureItem
             icon={InventoryManagementData[2].icon}
             title={InventoryManagementData[2].title}
+            description={InventoryManagementData[2].description}
+
           />
           <FeatureItem
             icon={InventoryManagementData[3].icon}
             title={InventoryManagementData[3].title}
+            description={InventoryManagementData[3].description}
+
           />
           <FeatureItem
             icon={InventoryManagementData[4].icon}
             title={InventoryManagementData[4].title}
+            description={InventoryManagementData[4].description}
+
           />
           <FeatureItem
             icon={InventoryManagementData[5].icon}
             title={InventoryManagementData[5].title}
+            description={InventoryManagementData[5].description}
+
           />
           <FeatureItem
             icon={InventoryManagementData[6].icon}
             title={InventoryManagementData[6].title}
+            description={InventoryManagementData[6].description}
+
           />
           <FeatureItem
             icon={InventoryManagementData[7].icon}
             title={InventoryManagementData[7].title}
+            description={InventoryManagementData[7].description}
+            
           />
           <FeatureItem
             icon={InventoryManagementData[8].icon}
             title={InventoryManagementData[8].title}
+            description={InventoryManagementData[8].description}
+
           />
         </div>
       </div>

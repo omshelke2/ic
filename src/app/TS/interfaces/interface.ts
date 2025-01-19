@@ -19,6 +19,7 @@ export interface SoftwareInfoProp {
 export interface FeatureData {
   icon: JSX.Element;
   title: string;
+  description: string;
 }
 
 export interface TabProps {
@@ -36,6 +37,7 @@ export interface SectionProps {
 
 export interface FeatureItemProp {
   title: String;
+  description:string;
   icon: JSX.Element;
 }
 

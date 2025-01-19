@@ -12,38 +12,56 @@ const E_AppSoftwaresFeatures = () => {
           <FeatureItem
             icon={ E_AppSoftwaresData[0].icon}
             title={ E_AppSoftwaresData[0].title}
+            description={ E_AppSoftwaresData[0].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[1].icon}
             title={ E_AppSoftwaresData[1].title}
+            description={ E_AppSoftwaresData[1].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[2].icon}
             title={ E_AppSoftwaresData[2].title}
+            description={ E_AppSoftwaresData[2].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[3].icon}
             title={ E_AppSoftwaresData[3].title}
+            description={ E_AppSoftwaresData[3].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[4].icon}
             title={ E_AppSoftwaresData[4].title}
+            description={ E_AppSoftwaresData[4].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[5].icon}
             title={ E_AppSoftwaresData[5].title}
+            description={ E_AppSoftwaresData[5].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[6].icon}
             title={ E_AppSoftwaresData[6].title}
+            description={ E_AppSoftwaresData[6].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[7].icon}
             title={ E_AppSoftwaresData[7].title}
+            description={ E_AppSoftwaresData[7].description}
+
           />
           <FeatureItem
             icon={ E_AppSoftwaresData[8].icon}
             title={ E_AppSoftwaresData[8].title}
+            description={ E_AppSoftwaresData[8].description}
+
           />
         </div>
       </div>

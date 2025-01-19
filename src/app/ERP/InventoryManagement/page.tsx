@@ -1,6 +1,8 @@
 import Header from "@/app/components/HeroPages/Header";
 import React from "react";
-import InventoryManagementFeatures from "./InventoryManagementFeatures";
+// import InventoryManagementFeatures from "./InventoryManagementFeatures";
+import WholesaleDistributionFeatures from "@/app/Distribution/WholesaleDistribution/WholesaleDistributionFeatures";
+
 
 const InventoryMgt = () => {
   return <div className="container">
@@ -15,7 +17,9 @@ const InventoryMgt = () => {
   heading2="Warehouse Management System"
   heading3="Real-time Inventory Updates"
  /> 
-  <InventoryManagementFeatures/>
+  {/* <InventoryManagementFeatures/> */}
+  < WholesaleDistributionFeatures/>
+
  
   </div>;
 };

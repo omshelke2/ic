@@ -1,7 +1,8 @@
 import Header from "@/app/components/HeroPages/Header";
 import ShowCase from "@/app/components/Showcase/ShowCase";
 import React from "react";
-import ManagementSoftwareFeatures from "./ManagementSoftwareFeatures";
+// import ManagementSoftwareFeatures from "./ManagementSoftwareFeatures";
+import IndusrtyFeatures from "@/app/Manufacturing/Indusrty/IndusrtyFeatures"
 
 const ManagementSoftwares = () => {
   return <div className="container">
@@ -17,7 +18,9 @@ const ManagementSoftwares = () => {
   heading3="Sales Pipeline Management"
  /> 
   <ShowCase/>
-  <ManagementSoftwareFeatures/>
+  {/* <ManagementSoftwareFeatures/> */}
+  <IndusrtyFeatures/>
+
   </div>;
 };
 

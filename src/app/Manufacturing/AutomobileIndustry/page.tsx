@@ -1,6 +1,7 @@
 import ShowCase from "@/app/components/Showcase/ShowCase";
 import React from "react";
 import AutomobileIndustryFeatures from "./AutomobileIndustryFeatures";
+import WholesaleDistributionFeatures from "@/app/Distribution/WholesaleDistribution/WholesaleDistributionFeatures";
 import Header from "@/app/components/HeroPages/Header";
 
 const AutomobileIndustry = () => {
@@ -17,7 +18,8 @@ const AutomobileIndustry = () => {
   heading3="Parts Distribution"
  /> 
     <ShowCase/>
-    <AutomobileIndustryFeatures/>
+    {/* <AutomobileIndustryFeatures/> */}
+    < WholesaleDistributionFeatures/>
   </div>;
 };
 

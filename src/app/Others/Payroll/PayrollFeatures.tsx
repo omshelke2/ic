@@ -12,38 +12,56 @@ const PayrollFeatures = () => {
           <FeatureItem
             icon={ PayrollData[0].icon}
             title={ PayrollData[0].title}
+            description={ PayrollData[0].description}
+
           />
           <FeatureItem
             icon={ PayrollData[1].icon}
             title={ PayrollData[1].title}
+            description={ PayrollData[1].description}
+
           />
           <FeatureItem
             icon={ PayrollData[2].icon}
             title={ PayrollData[2].title}
+            description={ PayrollData[2].description}
+            
           />
           <FeatureItem
             icon={ PayrollData[3].icon}
             title={ PayrollData[3].title}
+            description={ PayrollData[3].description}
+
           />
           <FeatureItem
             icon={ PayrollData[4].icon}
             title={ PayrollData[4].title}
+            description={ PayrollData[4].description}
+
           />
           <FeatureItem
             icon={ PayrollData[5].icon}
             title={ PayrollData[5].title}
+            description={ PayrollData[5].description}
+
           />
           <FeatureItem
             icon={ PayrollData[6].icon}
             title={ PayrollData[6].title}
+            description={ PayrollData[6].description}
+
           />
           <FeatureItem
             icon={ PayrollData[7].icon}
             title={ PayrollData[7].title}
+            description={ PayrollData[7].description}
+
           />
           <FeatureItem
             icon={ PayrollData[8].icon}
             title={ PayrollData[8].title}
+            description={ PayrollData[8].description}
+
           />
         </div>
       </div>
